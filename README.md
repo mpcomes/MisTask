@@ -27,3 +27,6 @@ First MIS task on Github.
 ![](14.png)
 ##PowerDesigner截图
 ![](16.png)
+##数据库查询结果
+![]( 查询结果.jpg)
+![](查询结果1.jpg)
